@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="134bcb434f733200a67cf2318110c72b" sys_domain="global" table="x_144057_teste_x_144057_teste" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-11 14:28:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>934bcb434f733200a67cf2318110c72d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_144057_teste_x_144057_teste" name="x_144057_teste_x_144057_teste" sys_domain="global" view="Default view">134bcb434f733200a67cf2318110c72b</sys_ui_form>
+            <sys_ui_section caption="Header" display_value="Header" name="x_144057_teste_x_144057_teste" sys_domain="global" view="Default view">447a03434f733200a67cf2318110c7ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-11 14:28:09</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-11 14:28:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9f4bcb434f733200a67cf2318110c72d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_144057_teste_x_144057_teste" name="x_144057_teste_x_144057_teste" sys_domain="global" view="Default view">134bcb434f733200a67cf2318110c72b</sys_ui_form>
+            <sys_ui_section caption="Teste" display_value="Teste" name="x_144057_teste_x_144057_teste" sys_domain="global" view="Default view">c34bcb434f733200a67cf2318110c72a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-11 14:28:09</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-11 14:33:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>036c43834f733200a67cf2318110c7e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_144057_teste_x_144057_teste" name="x_144057_teste_x_144057_teste" sys_domain="global" view="Default view">134bcb434f733200a67cf2318110c72b</sys_ui_form>
+            <sys_ui_section caption="My Idea" display_value="My Idea" name="x_144057_teste_x_144057_teste" sys_domain="global" view="Default view">766c43834f733200a67cf2318110c7e1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-11 14:33:03</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_144057_teste_x_144057_teste</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-11 14:28:09</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>134bcb434f733200a67cf2318110c72b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_144057_teste_x_144057_teste</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Teste" source="x_144057_teste">e598cf0f4f333200a67cf2318110c7bc</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Teste">e598cf0f4f333200a67cf2318110c7bc</sys_scope>
+            <sys_update_name>sys_ui_form_sections_134bcb434f733200a67cf2318110c72b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-11 14:28:09</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
