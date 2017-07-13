@@ -5,24 +5,24 @@
         <license_condition/>
         <license_model>none</license_model>
         <license_roles/>
-        <name>x_144057_teste_x_144057_teste</name>
+        <name>x_144057_teste_x_reservation</name>
         <op_delete>true</op_delete>
         <op_insert>true</op_insert>
         <op_update>true</op_update>
         <owner_condition/>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-07-11 14:22:14</sys_created_on>
+        <sys_created_on>2017-07-13 15:43:54</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>18f903434f733200a67cf2318110c7e8</sys_id>
+        <sys_id>b1b0f97b4f777200a67cf2318110c77f</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_144057_teste_x_144057_teste</sys_name>
+        <sys_name>x_144057_teste_x_reservation</sys_name>
         <sys_package display_value="Hotel" source="x_144057_teste">e598cf0f4f333200a67cf2318110c7bc</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Hotel">e598cf0f4f333200a67cf2318110c7bc</sys_scope>
-        <sys_update_name>ua_table_licensing_config_18f903434f733200a67cf2318110c7e8</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_b1b0f97b4f777200a67cf2318110c77f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-07-11 14:22:14</sys_updated_on>
+        <sys_updated_on>2017-07-13 15:43:54</sys_updated_on>
     </ua_table_licensing_config>
 </record_update>
