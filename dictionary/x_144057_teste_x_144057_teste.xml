@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="TESTE" max_length="40" name="x_144057_teste_x_144057_teste" type="collection">
+    <element label="Guests" max_length="40" name="x_144057_teste_x_144057_teste" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Description" mandatory="true" max_length="1000" name="u_description" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" default="Process Improvement" label="idea type" max_length="40" name="u_idea_type" type="string">
             <choice>
