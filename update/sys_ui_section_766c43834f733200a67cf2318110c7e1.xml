@@ -5,13 +5,27 @@
             <element>u_description</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-11 14:33:03</sys_created_on>
-            <sys_id>4f6c83834f733200a67cf2318110c7cd</sys_id>
+            <sys_created_on>2017-07-13 11:49:03</sys_created_on>
+            <sys_id>d01afc3f4ff37200a67cf2318110c74e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="My Idea" display_value="My Idea" name="x_144057_teste_x_144057_teste" sys_domain="global" view="Default view">766c43834f733200a67cf2318110c7e1</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-11 14:33:03</sys_updated_on>
+            <sys_updated_on>2017-07-13 11:49:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_requested_for</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-13 11:49:04</sys_created_on>
+            <sys_id>581afc3f4ff37200a67cf2318110c74e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="My Idea" display_value="My Idea" name="x_144057_teste_x_144057_teste" sys_domain="global" view="Default view">766c43834f733200a67cf2318110c7e1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-13 11:49:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
