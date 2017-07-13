@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="discovery_admin" name="discovery_admin">6ee37313c0a80201008e156771e720e1</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2017-07-12 15:57:52</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>8769e4e34fbb3200a67cf2318110c713</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6ee37313c0a80201008e156771e720e1</sys_name>
+        <sys_package display_value="Teste" source="x_144057_teste">e598cf0f4f333200a67cf2318110c7bc</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Teste">e598cf0f4f333200a67cf2318110c7bc</sys_scope>
+        <sys_update_name>sys_embedded_help_role_8769e4e34fbb3200a67cf2318110c713</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-07-12 15:57:52</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
