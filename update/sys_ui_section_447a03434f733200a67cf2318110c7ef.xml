@@ -2,72 +2,128 @@
 <record_update>
     <sys_ui_section caption="Header" section_id="447a03434f733200a67cf2318110c7ef" sys_domain="global" table="x_144057_teste_x_144057_teste" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sys_created_on</element>
+            <element>u_nome</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-13 11:05:06</sys_created_on>
-            <sys_id>9400b8b74ff37200a67cf2318110c78e</sys_id>
+            <sys_created_on>2017-07-13 16:35:25</sys_created_on>
+            <sys_id>879bb9734fb77200a67cf2318110c785</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Header" display_value="Header" name="x_144057_teste_x_144057_teste" sys_domain="global" view="Default view">447a03434f733200a67cf2318110c7ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-13 11:05:06</sys_updated_on>
+            <sys_updated_on>2017-07-13 16:35:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_idea_type</element>
+            <element>u_n_identificacao</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-13 11:05:06</sys_created_on>
-            <sys_id>5c00b8b74ff37200a67cf2318110c78e</sys_id>
+            <sys_created_on>2017-07-13 16:35:25</sys_created_on>
+            <sys_id>4f9bb9734fb77200a67cf2318110c785</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Header" display_value="Header" name="x_144057_teste_x_144057_teste" sys_domain="global" view="Default view">447a03434f733200a67cf2318110c7ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-13 11:05:06</sys_updated_on>
+            <sys_updated_on>2017-07-13 16:35:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_morada</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-13 16:35:25</sys_created_on>
+            <sys_id>cf9bb9734fb77200a67cf2318110c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Header" display_value="Header" name="x_144057_teste_x_144057_teste" sys_domain="global" view="Default view">447a03434f733200a67cf2318110c7ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-13 16:35:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-13 16:35:25</sys_created_on>
+            <sys_id>439bb9734fb77200a67cf2318110c786</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Header" display_value="Header" name="x_144057_teste_x_144057_teste" sys_domain="global" view="Default view">447a03434f733200a67cf2318110c7ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-13 16:35:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>2</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-13 11:05:06</sys_created_on>
-            <sys_id>dc00b8b74ff37200a67cf2318110c78e</sys_id>
+            <sys_created_on>2017-07-13 16:35:25</sys_created_on>
+            <sys_id>c39bb9734fb77200a67cf2318110c786</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Header" display_value="Header" name="x_144057_teste_x_144057_teste" sys_domain="global" view="Default view">447a03434f733200a67cf2318110c7ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-13 11:05:06</sys_updated_on>
+            <sys_updated_on>2017-07-13 16:35:25</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sys_updated_on</element>
-            <position>3</position>
+            <element>u_data_nascimento</element>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-13 11:05:06</sys_created_on>
-            <sys_id>5000b8b74ff37200a67cf2318110c78f</sys_id>
+            <sys_created_on>2017-07-13 16:35:25</sys_created_on>
+            <sys_id>479bb9734fb77200a67cf2318110c786</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Header" display_value="Header" name="x_144057_teste_x_144057_teste" sys_domain="global" view="Default view">447a03434f733200a67cf2318110c7ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-13 11:05:06</sys_updated_on>
+            <sys_updated_on>2017-07-13 16:35:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_requested_for_email</element>
-            <position>4</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-13 11:05:06</sys_created_on>
-            <sys_id>d000b8b74ff37200a67cf2318110c78f</sys_id>
+            <sys_created_on>2017-07-13 16:35:25</sys_created_on>
+            <sys_id>c79bb9734fb77200a67cf2318110c786</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Header" display_value="Header" name="x_144057_teste_x_144057_teste" sys_domain="global" view="Default view">447a03434f733200a67cf2318110c7ef</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-13 11:05:06</sys_updated_on>
+            <sys_updated_on>2017-07-13 16:35:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_telemovel</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-13 16:35:25</sys_created_on>
+            <sys_id>4b9bb9734fb77200a67cf2318110c786</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Header" display_value="Header" name="x_144057_teste_x_144057_teste" sys_domain="global" view="Default view">447a03434f733200a67cf2318110c7ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-13 16:35:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-13 16:35:25</sys_created_on>
+            <sys_id>cb9bb9734fb77200a67cf2318110c786</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Header" display_value="Header" name="x_144057_teste_x_144057_teste" sys_domain="global" view="Default view">447a03434f733200a67cf2318110c7ef</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-13 16:35:25</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

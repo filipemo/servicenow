@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="881cfd734fb77200a67cf2318110c763" sys_domain="global" table="x_144057_teste_x_checkin" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-13 16:37:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc1cfd734fb77200a67cf2318110c766</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_144057_teste_x_checkin" name="x_144057_teste_x_checkin" sys_domain="global" view="Default view">881cfd734fb77200a67cf2318110c763</sys_ui_form>
+            <sys_ui_section caption="Check-In" display_value="Check-In" name="x_144057_teste_x_checkin" sys_domain="global" view="Default view">6c3abd334fb77200a67cf2318110c77c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-13 16:37:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-13 16:37:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d81cfd734fb77200a67cf2318110c767</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_144057_teste_x_checkin" name="x_144057_teste_x_checkin" sys_domain="global" view="Default view">881cfd734fb77200a67cf2318110c763</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_144057_teste_x_checkin" sys_domain="global" view="Default view">081cbd734fb77200a67cf2318110c776</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-13 16:37:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_144057_teste_x_checkin</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-13 16:37:25</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>881cfd734fb77200a67cf2318110c763</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_144057_teste_x_checkin</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Hotel" source="x_144057_teste">e598cf0f4f333200a67cf2318110c7bc</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Hotel">e598cf0f4f333200a67cf2318110c7bc</sys_scope>
+            <sys_update_name>sys_ui_form_sections_881cfd734fb77200a67cf2318110c763</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-13 16:37:25</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Checkin" max_length="40" name="x_144057_teste_x_checkin" type="collection"/>
+    <element audit="true" label="Checkin" max_length="40" name="x_144057_teste_x_checkin" type="collection"/>
 </database>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_n_identificacao" label="Nº Identificação" language="en" table="x_144057_teste_x_144057_teste">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_n_identificacao</element>
+            <help/>
+            <hint/>
+            <label>Nº Identificação</label>
+            <language>en</language>
+            <name>x_144057_teste_x_144057_teste</name>
+            <plural>Nº Identificaçãos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-13 16:35:25</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>ba9bb9734fb77200a67cf2318110c757</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Nº Identificação</sys_name>
+            <sys_package display_value="Hotel" source="x_144057_teste">e598cf0f4f333200a67cf2318110c7bc</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Hotel">e598cf0f4f333200a67cf2318110c7bc</sys_scope>
+            <sys_update_name>sys_documentation_x_144057_teste_x_144057_teste_u_n_identificacao_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-13 16:35:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
