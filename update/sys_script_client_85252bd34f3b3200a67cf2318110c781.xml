@@ -16,6 +16,7 @@
    }
 
   alert(g_form.getValue('u_description'));
+  console.log(g_form.getValue("Teste 17/07/2017"));
    
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
@@ -25,7 +26,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>85252bd34f3b3200a67cf2318110c781</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_name>Needit Set Request For</sys_name>
         <sys_overrides/>
         <sys_package display_value="Hotel" source="x_144057_teste">e598cf0f4f333200a67cf2318110c7bc</sys_package>
@@ -34,7 +35,7 @@
         <sys_scope display_value="Hotel">e598cf0f4f333200a67cf2318110c7bc</sys_scope>
         <sys_update_name>sys_script_client_85252bd34f3b3200a67cf2318110c781</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-07-12 13:06:21</sys_updated_on>
+        <sys_updated_on>2017-07-17 10:31:53</sys_updated_on>
         <table>x_144057_teste_x_144057_teste</table>
         <type>onChange</type>
         <ui_type>0</ui_type>
