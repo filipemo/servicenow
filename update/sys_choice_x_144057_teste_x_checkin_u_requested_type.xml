@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_requested_type" table="x_144057_teste_x_checkin" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_requested_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Legal</label>
+            <language>en</language>
+            <name>x_144057_teste_x_checkin</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-18 08:28:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec2c7dd54f880300a67cf2318110c78d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-18 08:28:37</sys_updated_on>
+            <value>Legal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_requested_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Human Resources</label>
+            <language>en</language>
+            <name>x_144057_teste_x_checkin</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-18 08:28:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fc2c7dd54f880300a67cf2318110c78e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-18 08:28:37</sys_updated_on>
+            <value>Human Resources</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_requested_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Facilities</label>
+            <language>en</language>
+            <name>x_144057_teste_x_checkin</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-18 08:28:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f82c7dd54f880300a67cf2318110c78f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-18 08:28:37</sys_updated_on>
+            <value>Facilities</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_requested_type</element>
+            <name>x_144057_teste_x_checkin</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-18 08:28:37</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>b82c7dd54f880300a67cf2318110c78e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_requested_type</sys_name>
+            <sys_package display_value="Hotel" source="x_144057_teste">e598cf0f4f333200a67cf2318110c7bc</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Hotel">e598cf0f4f333200a67cf2318110c7bc</sys_scope>
+            <sys_update_name>sys_choice_x_144057_teste_x_checkin_u_requested_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-18 08:28:37</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

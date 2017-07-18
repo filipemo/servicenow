@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" label="Checkin" max_length="40" name="x_144057_teste_x_checkin" type="collection"/>
+    <element audit="true" label="Checkin" max_length="40" name="x_144057_teste_x_checkin" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Requested for" max_length="40" name="u_requested_for" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Requested type" max_length="40" name="u_requested_type" type="string">
+            <choice>
+                <element label="Legal" sequence="0" value="Legal"/>
+                <element label="Human Resources" sequence="1" value="Human Resources"/>
+                <element label="Facilities" sequence="2" value="Facilities"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Short description" max_length="100" name="u_short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="What needed" max_length="40" name="u_what_needed" type="string"/>
+    </element>
 </database>

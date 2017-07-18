@@ -2,44 +2,86 @@
 <record_update>
     <sys_ui_section caption="Check-In" section_id="6c3abd334fb77200a67cf2318110c77c" sys_domain="global" table="x_144057_teste_x_checkin" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sys_created_on</element>
+            <element>u_requested_for</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-13 16:39:47</sys_created_on>
-            <sys_id>3e9c75b34fb77200a67cf2318110c7f8</sys_id>
+            <sys_created_on>2017-07-18 08:28:37</sys_created_on>
+            <sys_id>7c2c7dd54f880300a67cf2318110c7ba</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Check-In" display_value="Check-In" name="x_144057_teste_x_checkin" sys_domain="global" view="Default view">6c3abd334fb77200a67cf2318110c77c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-13 16:39:47</sys_updated_on>
+            <sys_updated_on>2017-07-18 08:28:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_what_needed</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-18 08:28:37</sys_created_on>
+            <sys_id>342c7dd54f880300a67cf2318110c7bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Check-In" display_value="Check-In" name="x_144057_teste_x_checkin" sys_domain="global" view="Default view">6c3abd334fb77200a67cf2318110c77c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-18 08:28:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-18 08:28:37</sys_created_on>
+            <sys_id>b42c7dd54f880300a67cf2318110c7bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Check-In" display_value="Check-In" name="x_144057_teste_x_checkin" sys_domain="global" view="Default view">6c3abd334fb77200a67cf2318110c77c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-18 08:28:37</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>1</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-13 16:39:47</sys_created_on>
-            <sys_id>be9c75b34fb77200a67cf2318110c7f8</sys_id>
+            <sys_created_on>2017-07-18 08:28:37</sys_created_on>
+            <sys_id>382c7dd54f880300a67cf2318110c7bb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Check-In" display_value="Check-In" name="x_144057_teste_x_checkin" sys_domain="global" view="Default view">6c3abd334fb77200a67cf2318110c77c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-13 16:39:47</sys_updated_on>
+            <sys_updated_on>2017-07-18 08:28:37</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sys_created_by</element>
-            <position>2</position>
+            <element>u_requested_type</element>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-13 16:39:47</sys_created_on>
-            <sys_id>329c75b34fb77200a67cf2318110c7f9</sys_id>
+            <sys_created_on>2017-07-18 08:28:37</sys_created_on>
+            <sys_id>b82c7dd54f880300a67cf2318110c7bb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Check-In" display_value="Check-In" name="x_144057_teste_x_checkin" sys_domain="global" view="Default view">6c3abd334fb77200a67cf2318110c77c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-13 16:39:47</sys_updated_on>
+            <sys_updated_on>2017-07-18 08:28:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-18 08:28:37</sys_created_on>
+            <sys_id>3c2c7dd54f880300a67cf2318110c7bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Check-In" display_value="Check-In" name="x_144057_teste_x_checkin" sys_domain="global" view="Default view">6c3abd334fb77200a67cf2318110c77c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-18 08:28:37</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
