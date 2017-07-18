@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Hotel Task" max_length="40" name="x_144057_teste_hotel_task" type="collection"/>
+</database>

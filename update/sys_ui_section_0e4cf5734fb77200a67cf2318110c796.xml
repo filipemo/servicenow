@@ -43,6 +43,20 @@
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-18 14:24:36</sys_created_on>
+            <sys_id>239d8fd14f4c0300a67cf2318110c7f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Room" display_value="Room" name="x_144057_teste_x_room" sys_domain="global" view="Default view">0e4cf5734fb77200a67cf2318110c796</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-18 14:24:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Room</caption>
             <header>false</header>
