@@ -2,44 +2,100 @@
 <record_update>
     <sys_ui_section caption="Reservation" section_id="ee2c3d734fb77200a67cf2318110c7d0" sys_domain="global" table="x_144057_teste_x_reservation" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sys_updated_on</element>
+            <element>u_state</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-13 16:39:32</sys_created_on>
-            <sys_id>978c35b34fb77200a67cf2318110c7de</sys_id>
+            <sys_created_on>2017-07-18 10:12:27</sys_created_on>
+            <sys_id>7de312554fc80300a67cf2318110c761</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Reservation" display_value="Reservation" name="x_144057_teste_x_reservation" sys_domain="global" view="Default view">ee2c3d734fb77200a67cf2318110c7d0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-13 16:39:32</sys_updated_on>
+            <sys_updated_on>2017-07-18 10:12:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-18 10:12:27</sys_created_on>
+            <sys_id>fde312554fc80300a67cf2318110c761</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Reservation" display_value="Reservation" name="x_144057_teste_x_reservation" sys_domain="global" view="Default view">ee2c3d734fb77200a67cf2318110c7d0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-18 10:12:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-18 10:12:27</sys_created_on>
+            <sys_id>71e312554fc80300a67cf2318110c762</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Reservation" display_value="Reservation" name="x_144057_teste_x_reservation" sys_domain="global" view="Default view">ee2c3d734fb77200a67cf2318110c7d0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-18 10:12:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>1</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-13 16:39:32</sys_created_on>
-            <sys_id>1b8c35b34fb77200a67cf2318110c7de</sys_id>
+            <sys_created_on>2017-07-18 10:12:27</sys_created_on>
+            <sys_id>f1e312554fc80300a67cf2318110c762</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Reservation" display_value="Reservation" name="x_144057_teste_x_reservation" sys_domain="global" view="Default view">ee2c3d734fb77200a67cf2318110c7d0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-13 16:39:32</sys_updated_on>
+            <sys_updated_on>2017-07-18 10:12:27</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sys_updated_by</element>
-            <position>2</position>
+            <element>u_requested_for</element>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-13 16:39:32</sys_created_on>
-            <sys_id>9b8c35b34fb77200a67cf2318110c7de</sys_id>
+            <sys_created_on>2017-07-18 10:12:27</sys_created_on>
+            <sys_id>75e312554fc80300a67cf2318110c762</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Reservation" display_value="Reservation" name="x_144057_teste_x_reservation" sys_domain="global" view="Default view">ee2c3d734fb77200a67cf2318110c7d0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-13 16:39:32</sys_updated_on>
+            <sys_updated_on>2017-07-18 10:12:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-18 10:12:27</sys_created_on>
+            <sys_id>f5e312554fc80300a67cf2318110c762</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Reservation" display_value="Reservation" name="x_144057_teste_x_reservation" sys_domain="global" view="Default view">ee2c3d734fb77200a67cf2318110c7d0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-18 10:12:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-18 10:12:27</sys_created_on>
+            <sys_id>79e312554fc80300a67cf2318110c762</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Reservation" display_value="Reservation" name="x_144057_teste_x_reservation" sys_domain="global" view="Default view">ee2c3d734fb77200a67cf2318110c7d0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-18 10:12:27</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

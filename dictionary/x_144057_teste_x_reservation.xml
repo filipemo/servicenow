@@ -1,4 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" label="Reservation" max_length="40" name="x_144057_teste_x_reservation" type="collection"/>
+    <element audit="true" label="Reservation" max_length="40" name="x_144057_teste_x_reservation" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Requested for" max_length="40" name="u_requested_for" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="State" max_length="40" name="u_state" type="string">
+            <choice>
+                <element label="Open" sequence="0" value="Open"/>
+                <element label="Work in progress" sequence="1" value="Work in progress"/>
+                <element label="Awaiting Approval" sequence="2" value="Awaiting Approval"/>
+                <element label="Approved" sequence="3" value="Approved"/>
+                <element label="Reject" sequence="4" value="Reject"/>
+                <element label="Pending" sequence="5" value="Pending"/>
+                <element label="Resolved" sequence="6" value="Resolved"/>
+                <element label="Close" sequence="7" value="Close"/>
+            </choice>
+        </element>
+    </element>
 </database>
