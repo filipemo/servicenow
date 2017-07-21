@@ -29,6 +29,9 @@
 <p><strong class="ph b" style="box-sizing: border-box; margin: 0px; padding: 0px; color: #333333; font-family: 'Gotham SSm A', 'Gotham SSm B', Arial, Helvetica, sans-serif; font-size: 14px;">Number: ${number}</strong></p>
 <p><strong class="ph b" style="box-sizing: border-box; margin: 0px; padding: 0px; color: #333333; font-family: 'Gotham SSm A', 'Gotham SSm B', Arial, Helvetica, sans-serif; font-size: 14px;">Short description: ${short_description}<br /><br /></strong></p>
 <p><strong class="ph b" style="box-sizing: border-box; margin: 0px; padding: 0px; color: #333333; font-family: 'Gotham SSm A', 'Gotham SSm B', Arial, Helvetica, sans-serif; font-size: 14px;">Please complete this task soon is possible.</strong></p>
+<pre xml:space="preserve"><code>${mail_<a href="script:CountOverdueNeedItTasksAssignedTo}">script:CountOverdueHotelTasksAssignedTo}<br /><br /></a></code></pre>
+<pre xml:space="preserve"><code>${<a href="mailto:mailto.closeneedittask}">mailto:mailto.closehoteltask}</a></code></pre>
+<pre xml:space="preserve"><code><a href="script:CountOverdueNeedItTasksAssignedTo}">&nbsp;</a></code></pre>
 <p><strong class="ph b" style="box-sizing: border-box; margin: 0px; padding: 0px; color: #333333; font-family: 'Gotham SSm A', 'Gotham SSm B', Arial, Helvetica, sans-serif; font-size: 14px;">Click here to view the NeedIt Task record: ${URI_REF}<span style="color: #333333; font-family: 'Gotham SSm A', 'Gotham SSm B', Arial, Helvetica, sans-serif; font-size: 14px;">.</span></strong></p>]]></message_html>
         <message_list/>
         <message_text/>
@@ -38,7 +41,7 @@
         <push_message_only>false</push_message_only>
         <recipient_fields>assigned_to</recipient_fields>
         <recipient_groups/>
-        <recipient_users>filipemoreira24@gmail.com</recipient_users>
+        <recipient_users>6816f79cc0a8016401c5a33be04be441</recipient_users>
         <reply_to/>
         <send_self>true</send_self>
         <sms_alternate/>
@@ -52,7 +55,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>d5d042824fc00300a67cf2318110c786</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>Overdue Hotel Task</sys_name>
         <sys_overrides/>
         <sys_package display_value="Hotel" source="x_144057_teste">e598cf0f4f333200a67cf2318110c7bc</sys_package>
@@ -61,7 +64,7 @@
         <sys_scope display_value="Hotel">e598cf0f4f333200a67cf2318110c7bc</sys_scope>
         <sys_update_name>sysevent_email_action_d5d042824fc00300a67cf2318110c786</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-07-21 08:39:38</sys_updated_on>
+        <sys_updated_on>2017-07-21 10:56:21</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>
