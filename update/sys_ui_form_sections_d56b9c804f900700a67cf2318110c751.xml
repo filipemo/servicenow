@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="d56b9c804f900700a67cf2318110c751" sys_domain="global" table="x_144057_teste_needit" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-26 14:29:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d16b9c804f900700a67cf2318110c753</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_144057_teste_needit" name="x_144057_teste_needit" sys_domain="global" view="516b5c804f900700a67cf2318110c792">d56b9c804f900700a67cf2318110c751</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_144057_teste_needit" sys_domain="global" view="516b5c804f900700a67cf2318110c792">9d6b9c804f900700a67cf2318110c74f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-26 14:29:14</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_144057_teste_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-26 14:29:14</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d56b9c804f900700a67cf2318110c751</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_144057_teste_needit</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Teste" source="x_144057_teste">e598cf0f4f333200a67cf2318110c7bc</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Teste">e598cf0f4f333200a67cf2318110c7bc</sys_scope>
+            <sys_update_name>sys_ui_form_sections_d56b9c804f900700a67cf2318110c751</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-26 14:29:14</sys_updated_on>
+            <sys_user/>
+            <view display_value="User" name="User">516b5c804f900700a67cf2318110c792</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
